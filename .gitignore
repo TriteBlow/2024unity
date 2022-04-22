@@ -1,0 +1,13 @@
+.vscode/
+.svn/
+Library/
+Logs/
+Packages/
+UserSettings/
+*.sln
+*csproj
+Temp/
+obj/
+.vs/
+Assets/Terrain/NatureManufacture Assets/Meadow Environment Dynamic Nature/Demo Scenes/_TerrainAutoUpgrade/
+Captures/
